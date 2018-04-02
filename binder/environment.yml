@@ -7,5 +7,4 @@ dependencies:
   - scikit-learn
   - matplotlib
   - pandas
-  - collections
   - nltk
